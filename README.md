@@ -4,7 +4,7 @@ Module 11: Express.js
 
 ## Deployed Links 
 Github Repository: https://github.com/shaffachaudhry/Note-Taker
-Deplpyed application via Heroku: 
+Deplpyed application via Heroku: https://protected-lake-07050-bf2165c686e2.herokuapp.com/
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
