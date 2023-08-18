@@ -2,9 +2,11 @@
 Module 11: Express.js
 ![License Badge](https://img.shields.io/badge/License-MIT-blue)
 
-## Deployed Links 
-Github Repository: https://github.com/shaffachaudhry/Note-Taker
-Deplpyed application via Heroku: https://protected-lake-07050-bf2165c686e2.herokuapp.com/
+## Github Repository
+https://github.com/shaffachaudhry/Note-Taker
+
+## Deplpyed application via Heroku
+https://protected-lake-07050-bf2165c686e2.herokuapp.com/
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -31,6 +33,7 @@ This project is covered under the MIT license.
 ## Contributors
 I am the sole contributor of this project. This project was built with the help of in class modules, specifically the Student Mini Project. Additional links that were helpful linked below: 
 https://www.npmjs.com/package/uniqid
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
 
 ## Tests 
